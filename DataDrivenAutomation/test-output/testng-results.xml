@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br>  <img src='C:\Users\Chandra\source\eclipse-workspace\DataDrivenAutomation\.\Screenshots\EnterDataFailedTueJun02115326EDT2020.png' height='100' width='100' /><br>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=.\Screenshots\EnterDataFailedTueJun02115326EDT2020.png></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-06-02T11:53:15 EDT" name="Suite" finished-at="2020-06-02T11:53:57 EDT" duration-ms="42087">
+    <groups>
+    </groups>
+    <test started-at="2020-06-02T11:53:15 EDT" name="Test" finished-at="2020-06-02T11:53:57 EDT" duration-ms="42087">
+      <class name="org.automation.testcases.TC_001_ValidateLoginFunctionality">
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.testcases.TC_001_ValidateLoginFunctionality@51e5fc98]" started-at="2020-06-02T11:53:15 EDT" name="initiateDriverInstance" finished-at="2020-06-02T11:53:20 EDT" duration-ms="4857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="LoginFunctionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testcases.TC_001_ValidateLoginFunctionality@51e5fc98]" started-at="2020-06-02T11:53:20 EDT" name="LoginFunctionality" data-provider="Excel" finished-at="2020-06-02T11:53:26 EDT" duration-ms="5966" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email1email@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br>  <img src='C:\Users\Chandra\source\eclipse-workspace\DataDrivenAutomation\.\Screenshots\EnterDataFailedTueJun02115326EDT2020.png' height='100' width='100' /><br>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=.\Screenshots\EnterDataFailedTueJun02115326EDT2020.png></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginFunctionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.testcases.TC_001_ValidateLoginFunctionality@51e5fc98]" started-at="2020-06-02T11:53:26 EDT" name="closeDriverInstance" finished-at="2020-06-02T11:53:27 EDT" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.testcases.TC_001_ValidateLoginFunctionality@51e5fc98]" started-at="2020-06-02T11:53:27 EDT" name="initiateDriverInstance" finished-at="2020-06-02T11:53:31 EDT" duration-ms="4116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="LoginFunctionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testcases.TC_001_ValidateLoginFunctionality@51e5fc98]" started-at="2020-06-02T11:53:31 EDT" name="LoginFunctionality" data-provider="Excel" finished-at="2020-06-02T11:53:38 EDT" duration-ms="6560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[khinchi.chandra@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dhairya2011]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFunctionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.testcases.TC_001_ValidateLoginFunctionality@51e5fc98]" started-at="2020-06-02T11:53:38 EDT" name="closeDriverInstance" finished-at="2020-06-02T11:53:39 EDT" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- org.automation.testcases.TC_001_ValidateLoginFunctionality -->
+      <class name="org.automation.testcases.TC_002_RegisterAccount">
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.testcases.TC_002_RegisterAccount@7c469c48]" started-at="2020-06-02T11:53:39 EDT" name="initiateDriverInstance" finished-at="2020-06-02T11:53:43 EDT" duration-ms="4056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="RegisterNewAccount(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.automation.testcases.TC_002_RegisterAccount@7c469c48]" started-at="2020-06-02T11:53:43 EDT" name="RegisterNewAccount" data-provider="Excel" finished-at="2020-06-02T11:53:44 EDT" duration-ms="1114" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bobtest@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterNewAccount -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.testcases.TC_002_RegisterAccount@7c469c48]" started-at="2020-06-02T11:53:44 EDT" name="closeDriverInstance" finished-at="2020-06-02T11:53:45 EDT" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.testcases.TC_002_RegisterAccount@7c469c48]" started-at="2020-06-02T11:53:45 EDT" name="initiateDriverInstance" finished-at="2020-06-02T11:53:49 EDT" duration-ms="3920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="RegisterNewAccount(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.automation.testcases.TC_002_RegisterAccount@7c469c48]" started-at="2020-06-02T11:53:49 EDT" name="RegisterNewAccount" data-provider="Excel" finished-at="2020-06-02T11:53:50 EDT" duration-ms="1171" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vontest@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterNewAccount -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.testcases.TC_002_RegisterAccount@7c469c48]" started-at="2020-06-02T11:53:50 EDT" name="closeDriverInstance" finished-at="2020-06-02T11:53:51 EDT" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.testcases.TC_002_RegisterAccount@7c469c48]" started-at="2020-06-02T11:53:51 EDT" name="initiateDriverInstance" finished-at="2020-06-02T11:53:55 EDT" duration-ms="4111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="RegisterNewAccount(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.automation.testcases.TC_002_RegisterAccount@7c469c48]" started-at="2020-06-02T11:53:55 EDT" name="RegisterNewAccount" data-provider="Excel" finished-at="2020-06-02T11:53:56 EDT" duration-ms="1285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lilatest12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterNewAccount -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.testcases.TC_002_RegisterAccount@7c469c48]" started-at="2020-06-02T11:53:56 EDT" name="closeDriverInstance" finished-at="2020-06-02T11:53:57 EDT" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- org.automation.testcases.TC_002_RegisterAccount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
